@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/rguktrkvalley/Desktop/Judiciary-4/Judiciary/web/index.html</file>
+            <file>file:/home/rguktrkvalley/Desktop/Judiciary-4/Judiciary/src/java/DaoClasses/JudgementDao.java</file>
+            <file>file:/home/rguktrkvalley/Desktop/Judiciary-4/Judiciary/web/ViewACase.jsp</file>
+            <file>file:/home/rguktrkvalley/Desktop/Judiciary-4/Judiciary/src/java/DaoClasses/DBConnect.java</file>
+            <file>file:/home/rguktrkvalley/Desktop/Judiciary-4/Judiciary/src/java/Servlets/ViewCaseServlet.java</file>
+            <file>file:/home/rguktrkvalley/Desktop/Judiciary-4/Judiciary/src/java/Beans/Cases.java</file>
+            <file>file:/home/rguktrkvalley/Desktop/Judiciary-4/Judiciary/src/java/Servlets/JudgementServlet.java</file>
+            <file>file:/home/rguktrkvalley/Desktop/Judiciary-4/Judiciary/src/java/Servlets/LogoutServlet.java</file>
+            <file>file:/home/rguktrkvalley/Desktop/Judiciary-4/Judiciary/src/java/Beans/Judge.java</file>
+            <file>file:/home/rguktrkvalley/Desktop/Judiciary-4/Judiciary/src/java/DaoClasses/GetAllCasesDao.java</file>
+            <file>file:/home/rguktrkvalley/Desktop/Judiciary-4/Judiciary/src/java/DaoClasses/DeleteCaseDao.java</file>
+            <file>file:/home/rguktrkvalley/Desktop/Judiciary-4/Judiciary/src/java/Beans/Lawyer.java</file>
+            <file>file:/home/rguktrkvalley/Desktop/Judiciary-4/Judiciary/src/java/DaoClasses/LawyerAssignedCasesDao.java</file>
+            <file>file:/home/rguktrkvalley/Desktop/Judiciary-4/Judiciary/web/PassJudgement.jsp</file>
+            <file>file:/home/rguktrkvalley/Desktop/Judiciary-4/Judiciary/web/Judge.jsp</file>
+        </group>
+    </open-files>
+</project-private>
